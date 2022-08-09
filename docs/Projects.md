@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: Projects
+permalink: /projects/
 ---
 
 This is Siavash Riazi personal webpage.
