@@ -2,17 +2,8 @@
 layout: page
 title: Home
 permalink: /home/
+order: 1
 ---
 
-Author: Siavash Riazi This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+``How much quantitative information is needed to predict a biological system? My research focuses on developing computational and mathematical tools to understand and predict biological systems. Currently I’m working on developing a new way to predict the spread of a viral disease over the course of an epidemic. I’m a computational biologist with a background in mathematical modeling of bacterial physiology/biochemistry. During my PhD I worked with Chris Marx and Chris Remien at University of Idaho. I developed a mathematical model to understand the physiological response of Methylobacterium extorquens to formaldehyde toxicity. This bacteria is a facultative Methylobacterium that lives naturally on plant leaves, and it is regularly exposed to formaldehyde. Further I used statistical methods to analyze global gene expression response of M. extorquens to formaldehyde toxicity and I investigated the role of EfgA, a newly found protein in tolerance to formaldehyde toxicity. In my current research I’m working on developing a new method to estimate epidemiological parameters from a given viral phylogenetic tree during the course of an epidemic. The research involves both stochastic and deterministic mathematical modeling, phylogenetic analysis and investigating parameter estimation methods.’’
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
