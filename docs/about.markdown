@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /siariazi.github.io/
+permalink: //
 order: 1
 ---
 
