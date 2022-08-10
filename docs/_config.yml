@@ -31,7 +31,7 @@ url: https://siariazi.github.io # the base hostname & protocol for your site, e.
 github_username:  siariazi
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
